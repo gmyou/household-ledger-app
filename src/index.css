@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 기본 폰트 및 바디 스타일 */
+body {
+  @apply bg-gray-50 text-gray-900 antialiased;
+}
+
+/* 입력창 포커스 시 스타일 */
+input:focus, select:focus, textarea:focus {
+  @apply outline-none ring-2 ring-blue-400;
+}
