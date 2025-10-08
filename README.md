@@ -117,6 +117,7 @@ export default {
   },
 };
 ```
+<img width="949" height="690" alt="image" src="https://github.com/user-attachments/assets/d1fdcb1d-4a8e-4cca-ab1b-455ce2d76463" />
 
 ---
 
@@ -128,6 +129,8 @@ export default {
 - LocalStorage 저장 (로그인/서버 필요 없음)
 
 ---
+
+
 
 ## 🛠️ 배포 가이드
 
